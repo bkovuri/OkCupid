@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="resteasy-jackson-provider-2.3.5.final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resteasy-jackson-provider-2.3.5.final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
